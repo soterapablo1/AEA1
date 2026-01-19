@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AEA - Gestión Observatorio",
+  "description": "Aplicación mobile-first para la Asociación Entrerriana de Astronomía: gestión de asistencia, actividades, proyectos y novedades.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
